@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="400" scr="https://c8.alamy.com/comp/2FM1TT9/animation-of-human-brain-scope-scanning-and-binary-coding-on-black-background-2FM1TT9.jpg">
 <h3 align="center">Hi 👋,I'm Sangamesh lingshetty </h3>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+<img align="right" alt="coding" width="500" scr="https://w7.pngwing.com/pngs/501/438/png-transparent-man-using-laptop-illustration-web-development-web-developer-web-design-web-development-text-computer-presentation-thumbnail.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingshetty&label=Profile%20views&color=0e75b6&style=flat" alt="lingshetty" /> </p>
 
